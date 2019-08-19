@@ -1,0 +1,38 @@
+body {
+    background-color: #D9FF94;
+}
+
+.ul1 {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    color: #C287E8;
+}
+
+.ol1 {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    color: #C287E8;
+}
+
+.titles1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: #C287E8;
+
+
+}
+
+img1 {
+    max-width: 100%;
+    height: auto;
+}
+
+.taules {
+    text-align: center;
+}
+
+.jumping {
+    padding-top: 20px;
+}
